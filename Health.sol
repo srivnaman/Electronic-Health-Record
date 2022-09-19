@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
-contract SimpleStorage{
-    uint256 myNum = 13;
+contract PatientData{
+    
     struct People{
         string Name;
         uint256 Age;   
